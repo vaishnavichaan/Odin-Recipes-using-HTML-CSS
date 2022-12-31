@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(146, 206, 226);
+}
+
+div h1 {
+    background-color: rgb(21, 146, 168);
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+div img {
+    width: 1500px;
+    height: 500px;
+}
+
+div ul,
+ol,
+li {
+    background-color: rgb(132, 203, 203);
+    font-weight: bolder;
+    color: rgb(35, 30, 30);
+    font-size: larger;
+}
